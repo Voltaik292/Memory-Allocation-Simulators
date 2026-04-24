@@ -12,10 +12,10 @@ from Chapter 9 of the Silberschatz Operating Systems textbook:
 
 ## Authors
 
-| # | Name | Student ID | Part Implemented |
-|---|------|------------|------------------|
-| 1 | **Abdulrahman Sawalmeh** | 1221574 | `01-contiguous-allocation` |
-| 2 | **Saleh Shawer**          | 1220217 | `02-paging-allocation` |
+| # | Name | Part Implemented |
+|---|------|------------------|
+| 1 | **Abdulrahman Sawalmeh** | `01-contiguous-allocation` |
+| 2 | **Saleh Shawer**          | `02-paging-allocation` |
 
 ---
 
